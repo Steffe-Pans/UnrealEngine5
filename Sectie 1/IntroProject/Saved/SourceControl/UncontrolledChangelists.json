@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/steff/Desktop/PPP/Sectie 1/Lesson 5. Navigating The Viewport/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/FV/M0Z0T52YILC8ZFLV0G19AB.uasset",
+				"C:/Users/steff/Desktop/PPP/Sectie 1/Lesson 5. Navigating The Viewport/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/QQ/ETZNQ8VURK9JXAXBL9ZD6B.uasset",
+				"C:/Users/steff/Desktop/PPP/Sectie 1/Lesson 5. Navigating The Viewport/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/YX/EUUAFU3QXNZ9XE3N5BWC8P.uasset"
+			]
+		}
+	]
+}
